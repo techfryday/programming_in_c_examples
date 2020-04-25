@@ -7,6 +7,7 @@ The code has been written and compiled using "Turbo C++" editor and compiler. Wi
 # How to use it:
 Well, i would like to tell you the easiest way to run this source code files without "Copy and Paste".
 
+Step-1: Unzip the folder and copy all ".c" files in yout "C:\TURBOC3\BIN" folder.
 Step-2: Open "turbo c++".
 Step-3: Select "File" menu and click on "open" option.
 and here you will find all the files. Click on a file and click on open to open the file in editor.
